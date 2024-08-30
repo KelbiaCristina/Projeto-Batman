@@ -25,10 +25,10 @@ Bem-vindo ao repositório do site de simulação para o filme Batman! Este proje
 
 ## Estrutura do Projeto
 
-- <a href="https://celebrated-bunny-89b4fd.netlify.app/">Início</a>: Página inicial.
-- <a href="https://celebrated-bunny-89b4fd.netlify.app/fotos">Galeria</a>: Página de fotos.
-- <a href="https://celebrated-bunny-89b4fd.netlify.app/comentarios">Comentários</a>: Página de comentários.
-- <a href="https://celebrated-bunny-89b4fd.netlify.app/contatos">Contatos</a>: Página de Contato.
+- <a href="https://projetobatman-2023.netlify.app/">Início</a>: Página inicial.
+- <a href="https://projetobatman-2023.netlify.app/fotos">Galeria</a>: Página de fotos.
+- <a href="https://projetobatman-2023.netlify.app/comentarios">Comentários</a>: Página de comentários.
+- <a href="https://projetobatman-2023.netlify.app/contatos">Contatos</a>: Página de Contato.
 
 ## Acesse o Site
-Endereço https://celebrated-bunny-89b4fd.netlify.app/
+Endereço https://projetobatman-2023.netlify.app/
